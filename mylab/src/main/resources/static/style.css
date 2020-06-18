@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: lightpink;
 }
 
 h2 {
@@ -10,5 +10,6 @@ h2 {
 p {
   font-family: verdana;
   font-size: 20px;
-  color: Red;
+  width: 80%;
+  color: black;
 }
